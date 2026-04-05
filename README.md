@@ -10,7 +10,7 @@ I'm interested in **backend / full-stack** work and building small systems end-t
 
 ### Pinned work
 
-- [**commerce**](https://github.com/risandiro/commerce) — Django auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://YOUR-DEMO.pythonanywhere.com) — *update or remove this line if you prefer.*  
+- [**commerce**](https://github.com/risandiro/commerce) — Django auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
 - [**cs50submissions**](https://github.com/risandiro/cs50submissions) — CS50x, CS50 Python, and CS50 Web submissions in one place.  
 - [**apex_bot**](https://github.com/risandiro/apex_bot) — MT5 Expert Advisor in MQL5; **weekend / hobby** project, documented for portfolio context.
 
