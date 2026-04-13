@@ -2,7 +2,7 @@
 
 I'm interested in **backend / full-stack** work and building small systems end-to-end. I completed **Harvard CS50** (CS50x, Python, Web) and keep my coursework and projects public here.
 
-**Stack I use most:** Python · Django · SQLite · HTML/CSS · Git  
+**Stack I use most:** Python · Django · Flask ·  SQLite · HTML/CSS · Git  
 
 **On the side:** I also tinker with **MQL5 / MetaTrader** (C-like, event-driven programs)—**a hobby**
 
