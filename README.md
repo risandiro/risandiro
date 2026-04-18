@@ -4,8 +4,6 @@ I'm interested in **backend / full-stack** work and building small systems end-t
 
 **Stack I use most:** Python · Django · Flask ·  SQLite · HTML/CSS · Git · SQLite
 
-**On the side:** I also tinker with **MQL5 / MetaTrader** (C-like, event-driven programs)—**a hobby**
-
 ---
 
 ### Pinned work
