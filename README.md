@@ -16,4 +16,4 @@ Zajímám se o **backend / full-stack** práci a o stavění menších systémů
 
 ### Aktuálně
 
-Hledám **juniorní** pozice.
+Hledám pozice na roli juniorního programátora nebo testera.
