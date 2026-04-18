@@ -1,19 +1,19 @@
-# Hi, I'm Richard
+# Ahoj, jsem Richard
 
-I'm interested in **backend / full-stack** work and building small systems end-to-end. I completed **Harvard CS50** (CS50x, Python, Web) and keep my coursework and projects public here.
+Zajímám se o **backend / full-stack** práci a o stavění menších systémů **end-to-end**. Dokončil jsem **Harvard CS50** (CS50x, Python, Web) a své kurzy a projekty tady mám veřejně.
 
-**Stack I use most:** Python · Django · Flask ·  SQLite · HTML/CSS · Git · SQLite
-
----
-
-### Pinned work
-
-- [**commerce**](https://github.com/risandiro/commerce) — Django + SQLite auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
-  
-- [**flask-google-organic-export**](https://github.com/risandiro/flask-google-organic-export) — Flask app using SerpAPI for Google organic results, normalized fields, JSON download, pytest with mocked requests. [Live demo](https://flask-serpapi-export-tests.onrender.com)
+**Stack, který nejvíc používám:** Python · Django · Flask · SQLite · HTML/CSS · Git
 
 ---
 
-### Now
+### Vybrané projekty
 
-Open to **junior** roles.
+- [**django-auction-marketplace**](https://github.com/risandiro/django-auction-marketplace) — Django + SQLite tržiště s komiksy a aukčním systémem (přihlášení, inzeráty, příhozy, sledované položky, kategorie, komentáře). [Živá ukázka](https://risandiro.pythonanywhere.com)
+
+- [**flask-google-organic-export**](https://github.com/risandiro/flask-google-organic-export) — Flask aplikace se **SerpAPI** pro organické výsledky Googlu, normalizovaná pole, stažení jako JSON, **pytest** s namockovanými požadavky (bez živého API v testech). [Živá ukázka](https://flask-serpapi-export-tests.onrender.com)
+
+---
+
+### Aktuálně
+
+Hledám **juniorní** pozice.
