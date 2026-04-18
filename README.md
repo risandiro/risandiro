@@ -9,7 +9,7 @@ I'm interested in **backend / full-stack** work and building small systems end-t
 ### Pinned work
 
 - [**commerce**](https://github.com/risandiro/commerce) — Django + SQLite auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
-- 
+  
 - [**flask-google-organic-export**](https://github.com/risandiro/flask-google-organic-export) — Flask app using SerpAPI for Google organic results, normalized fields, JSON download, pytest with mocked requests. [Live demo](https://flask-serpapi-export-tests.onrender.com)
 
 ---
