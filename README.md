@@ -8,7 +8,7 @@ I'm interested in **backend / full-stack** work and building small systems end-t
 
 ### Pinned work
 
-- [**commerce**](https://github.com/risandiro/commerce) — Django auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
+- [**commerce**](https://github.com/risandiro/commerce) — Django + SQLite auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
 
 ---
 
