@@ -9,6 +9,7 @@ I'm interested in **backend / full-stack** work and building small systems end-t
 ### Pinned work
 
 - [**commerce**](https://github.com/risandiro/commerce) — Django + SQLite auction marketplace (auth, listings, bids, watchlist, categories, comments). [Live demo](https://risandiro.pythonanywhere.com)
+- [**apex_bot**](https://github.com/risandiro/apex_bot) — MetaTrader 5 Expert Advisor (MQL5): Donchian-style channel breakouts, event-driven order handling, risk limits, session/spread filters, and a large structured `input` surface — portfolio sample illustrating real-time, tick-driven systems.
 
 ---
 
