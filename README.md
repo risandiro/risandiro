@@ -14,4 +14,4 @@ Zajímám se o **backend / full-stack** práci a o stavění menších systémů
 
 ### Aktuálně
 
-Rozvíjím **HireTrackr** (dashboard, další nástroje na žádosti a dopisy). Hledám pozice na roli juniorního programátora nebo testera.
+Hledám pozice na roli juniorního programátora nebo testera.
