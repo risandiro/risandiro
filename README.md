@@ -1,4 +1,4 @@
-Zajímám se o **backend / full-stack** práci a o stavění menších systémů **end-to-end**. Dokončil jsem **Harvard CS50** (CS50x, Python, Web) a své kurzy a projekty tady mám veřejně.
+Zajímám se o **backend / full-stack**.
 
 ---
 
