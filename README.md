@@ -1,7 +1,5 @@
 Zajímám se o **backend / full-stack** práci a o stavění menších systémů **end-to-end**. Dokončil jsem **Harvard CS50** (CS50x, Python, Web) a své kurzy a projekty tady mám veřejně.
 
-**Stack, který nejvíc používám:** Python · FastAPI · Django · Flask · PostgreSQL · SQLite · Docker · HTML/CSS · Git
-
 ---
 
 ### Vybrané projekty
