@@ -9,9 +9,3 @@ Zajímám se o **backend / full-stack**.
 - [**django-auction-marketplace**](https://github.com/risandiro/django-auction-marketplace) — Django + SQLite tržiště s komiksy a aukčním systémem (přihlášení, inzeráty, příhozy, sledované položky, kategorie, komentáře). [Živá ukázka](https://risandiro.pythonanywhere.com). CI: GitHub Actions
 
 - [**flask-google-organic-export**](https://github.com/risandiro/flask-google-organic-export) — Flask aplikace se **SerpAPI** pro organické výsledky Googlu, normalizovaná pole, stažení jako JSON, **pytest** s namockovanými požadavky (bez živého API v testech). [Živá ukázka](https://flask-serpapi-export-tests.onrender.com)
-
----
-
-### Aktuálně
-
-Hledám pozice na roli juniorního programátora nebo testera.
